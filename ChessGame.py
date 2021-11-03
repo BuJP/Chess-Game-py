@@ -4,7 +4,7 @@ from coup import verifVictoire, deplacementBot, deplacementm
 from colored import fg, bg, attr
 from affichage import affiche_plateau, affiche_plateau_reach,reverseAffiche_plateau
 import os
-from z import score, affiche_score, reloadP, savePart
+from save import score, affiche_score, reloadP, savePart
 
 
 res = attr('reset')
