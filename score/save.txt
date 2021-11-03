@@ -1,0 +1,35 @@
+p a2
+p b4
+p c2
+p d2
+p e2
+p f2
+p g2
+p h2
+t a1
+t h1
+f c1
+f f1
+c b1
+c g1
+d d1
+r e1
+-
+p a7
+p b7
+p c7
+p d7
+p e7
+p f7
+p g7
+p h7
+t a8
+t h8
+f c8
+f f8
+c b8
+c g8
+d d8
+r e8
+-
+1
